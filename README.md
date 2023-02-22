@@ -12,6 +12,7 @@ This is the Cython code of Group SCAD/Fast Group SCAD/AccelGSCAD.
 - `sgl_tools.py`
 - `experiment.py`
 - `grid_experiments.sh`
+- `license.txt`
 
 # Environment
 The environment can be made by using the Dockerfile of Kaggle as follows:
